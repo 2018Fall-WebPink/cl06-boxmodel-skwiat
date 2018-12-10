@@ -1,0 +1,30 @@
+/*
+* Sydney Kwiatkowski
+* December 10, 2018 
+* Box Model Project
+*/
+
+/* The universal selector */
+
+*{
+
+}
+
+/* Body attributes here */
+
+*{ margin: 0;
+   padding: 0;}
+
+body {border: thin dotted black;
+      padding: 0.5em;
+        margin: 1em;}
+main { border: thin solid aqua;
+       padding: 1em;
+         margin: .5em;}
+h1 { border: thin dashed coral;
+     padding: 0.5em;
+        margin: 0.5em;}
+p { border: thin dashed yellow;
+    padding: 0.5em;
+       margin: 0.5em;}
+
